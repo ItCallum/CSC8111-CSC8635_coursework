@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-from-Disaster
+# Machine-Learning-Titanic-problem
 
 My answer to the the Kaggle Titanic problem.
 
